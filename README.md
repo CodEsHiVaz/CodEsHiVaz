@@ -105,10 +105,10 @@
 
   <h2> 📫 How to reach me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
   
-<a href = 'https://www.linkedin.com/in/shivaji-zirpe-92650919b/' target='_blank'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://medium.com/@mobiotech11'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
-<a href="https://shivajis-portpholio-site.netlify.app"><img src="https://img.icons8.com/bubbles/50/000000/web.png" width = '32px' align= 'center' alt="Website"/></a>
-<a href = 'https://github.com/CodEsHiVaz/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.linkedin.com/in/shivaji-zirpe-92650919b/' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://medium.com/@mobiotech11' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
+<a href="https://shivajis-portpholio-site.netlify.app" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" width = '32px' align= 'center' alt="Website"/></a>
+<a href = 'https://github.com/CodEsHiVaz/' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 <br>
 <br>
