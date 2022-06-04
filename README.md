@@ -74,7 +74,10 @@
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
-
+    <a href="https://www.heroku.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23430098.svg?logo=vercel&logoColor=white"></a>  
+  &emsp;
+      <a href="https://www.heroku.com/"><img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%23430098.svg?logo=netlify&logoColor=white"></a>  
+  &emsp;
 </p>
   
 ### 👉Graphic Designing
@@ -87,7 +90,12 @@
   <a href="#">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
-&emsp; 
+&emsp;
+     
+  <a href="#">
+  	<img alt="Figma" src="https://img.shields.io/badge/Figma-%2300C4CC.svg?style=flat&logo=figma&logoColor=white"/>
+  </a>
+&emsp;
  </p>
 
 ### 👉 Software & Tools
