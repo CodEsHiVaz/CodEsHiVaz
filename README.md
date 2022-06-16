@@ -93,7 +93,7 @@
 &emsp;
      
   <a href="#">
-  	<img alt="Figma" src="https://img.shields.io/badge/Figma-%2300C4CC.svg?style=flat&logo=figma&logoColor=white"/>
+  	<img alt="Figma" src="https://img.shields.io/badge/Figma-%FF69B4.svg?style=flat&logo=figma&logoColor=white"/>
   </a>
 &emsp;
  </p>
