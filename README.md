@@ -50,7 +50,7 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -74,9 +74,9 @@
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
-    <a href="https://www.heroku.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23430098.svg?logo=vercel&logoColor=white"></a>  
+    <a href="https://www.vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%2300C4C.svg?logo=vercel&logoColor=black"></a>  
   &emsp;
-      <a href="https://www.heroku.com/"><img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%23430098.svg?logo=netlify&logoColor=white"></a>  
+      <a href="https://www.netlify.com/"><img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%23430098.svg?logo=netlify&logoColor=white"></a>  
   &emsp;
 </p>
   
@@ -113,10 +113,10 @@
 
   <h2> 📫 How to reach me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
   
-<a href = 'https://www.linkedin.com/in/shivaji-zirpe-92650919b/' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://medium.com/@mobiotech11' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
-<a href="https://shivajis-portpholio-site.netlify.app" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" width = '32px' align= 'center' alt="Website"/></a>
-<a href = 'https://github.com/CodEsHiVaz/' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.linkedin.com/in/shivaji-zirpe-92650919b/' target="_blank"> <img  align= 'center' src="https://img.shields.io/badge/Linkedin%20-%23430098.svg?logo=Linkedin&logoColor=white"/></a>
+<a href = 'https://medium.com/@mobiotech11' target="_blank"> <img align= 'center' src="https://img.shields.io/badge/Medium-%2300C4C.svg?style=flat&logo=medium&logoColor=black"/></a>
+<a href="https://shivajis-portpholio-site.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portpholio%20-%23F7DF1E.svg?logo=circle&logoColor=black" align= 'center' alt="Website"/></a>
+<a href = 'https://github.com/CodEsHiVaz/' target="_blank"> <img align= 'center' src="https://img.shields.io/badge/Github%20-%23E34F26.svg?logo=github&logoColor=white"/></a>
 
 <br>
 <br>
