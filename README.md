@@ -39,7 +39,7 @@
   &emsp; 
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
    </a>
   &emsp;
 
@@ -50,50 +50,71 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+      <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+&emsp; 
+   <a href="https://www.java.com" target="_blank"> 
+    <img alt="chakra" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=black">
+  </a>
+   &emsp;
+   <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
+     &emsp;
+   <a href="#" target="_blank"> 
+    <img alt="mui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
+  </a>
+</p>
+
+
+### 👉 Backend Development
+
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </a>
-&emsp; 
-   <a href="https://www.java.com" target="_blank"> 
-    <img alt="chakra" src="https://img.shields.io/badge/Chakra-%23007396.svg?logo=chakraui&logoColor=white">
-  </a>
-   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/React-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
 </p>
+
 
 ### 👉 Databases & Cloud Hosting
 
+
 <p align="left">
   &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>  
   &emsp;
-    <a href="https://www.vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%2300C4C.svg?logo=vercel&logoColor=black"></a>  
+    <a href="https://www.vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>  
   &emsp;
-      <a href="https://www.netlify.com/"><img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%23430098.svg?logo=netlify&logoColor=white"></a>  
+      <a href="https://www.netlify.com/"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a>  
   &emsp;
 </p>
   
 ### 👉Graphic Designing
 <p align="left">
-  &emsp;  
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
-  </a>
     &emsp;
   <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
   </a>
 &emsp;
      
   <a href="#">
-  	<img alt="Figma" src="https://img.shields.io/badge/Figma-%FF69B4.svg?style=flat&logo=figma&logoColor=white"/>
+  	<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   </a>
 &emsp;
  </p>
@@ -102,9 +123,19 @@
 
 <p>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+&emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+    &emsp;
+     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+    &emsp;
+        <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
+    &emsp;
+        <a href="#"><img alt="zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"></a>
+    &emsp;
+        <a href="#"><img alt="ms office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
   &emsp;
 
 </p>
@@ -113,16 +144,16 @@
 
   <h2> 📫 How to reach me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
   
-<a href = 'https://www.linkedin.com/in/shivaji-zirpe-92650919b/' target="_blank"> <img  align= 'center' src="https://img.shields.io/badge/Linkedin%20-%23430098.svg?logo=Linkedin&logoColor=white"/></a>
-<a href = 'https://medium.com/@mobiotech11' target="_blank"> <img align= 'center' src="https://img.shields.io/badge/Medium-%2300C4C.svg?style=flat&logo=medium&logoColor=black"/></a>
-<a href="https://shivajis-portpholio-site.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portpholio%20-%23F7DF1E.svg?logo=circle&logoColor=black" align= 'center' alt="Website"/></a>
-<a href = 'https://github.com/CodEsHiVaz/' target="_blank"> <img align= 'center' src="https://img.shields.io/badge/Github%20-%23E34F26.svg?logo=github&logoColor=white"/></a>
+<a href = 'https://www.linkedin.com/in/shivaji-zirpe-92650919b/' target="_blank"> <img  align= 'center' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = 'https://medium.com/@mobiotech11' target="_blank"> <img align= 'center' src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://shivajis-portpholio-site.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" align= 'center' alt="Website"/></a>
+<a href = 'https://github.com/CodEsHiVaz/' target="_blank"> <img align= 'center' src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br>
 <br>
   <br>
 
- ![Shivaji's 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=CodEsHiVaz&theme=redical&hide_border=true&area=true)
+
 | ![Shivaji's  github stats](https://github-readme-stats.vercel.app/api?username=CodEsHiVaz&show_icons=true&theme=radical)             | ![Shivaji's  GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodEsHiVaz&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodEsHiVaz&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=CodEsHiVaz&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
