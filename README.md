@@ -19,9 +19,29 @@
   
 🌱 I’m currently learning Full Stack Web Devlopment.
   
-💞️ I’m looking to collaborate on (not now but in future i would like to do)
+💞️ I’m looking for opportunities in organization as a Full Stack (MERN), FrontEnd, BackEnd, React, Node.Js devloper roles
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Projects i worked on <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> </h2>
+  <ul>
+  <li>
+<a href="https://github.com/CodEsHiVaz/stoic-sack-3017_full_stack_MERN_project" target="_blank">Stoic-sack-3017_full_stack_MERN_project </a>
+</li>
+  <li>
+<a href="https://github.com/CodEsHiVaz/Project-Tifrac" target="_blank">Hackathon - TIFRAC </a>
+</li>
+  <li>
+<a href="https://github.com/CodEsHiVaz/cw-4-stylecraze-project-repo" target="_blank">Stylecraze</a>
+</li>
+  <li>
+<a href="https://github.com/CodEsHiVaz/kfc-clone-react" target="_blank">Kfc-Clone-React</a>
+</li>
+  <li>
+<a href="https://github.com/CodEsHiVaz/straberrynet_cw_project" target="_blank">Straberrynet_cw_project</a>
+</li>
+  <li>
+<a href="https://github.com/CodEsHiVaz/FreshlyCloning_1st_cw_project" target="_blank">Freshly_Cloning_1st_cw_project</a>
+</li>
+</ul>
 
 ## 🛠️ My Skills
 
