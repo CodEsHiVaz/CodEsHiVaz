@@ -140,7 +140,7 @@
   
 <a href = 'https://www.linkedin.com/in/shivaji-zirpe-92650919b/' target="_blank"> <img  align= 'center' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = 'https://medium.com/@mobiotech11' target="_blank"> <img align= 'center' src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://shivajis-portpholio-site.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" align= 'center' alt="Website"/></a>
+<a href="https://shivaji-zirpe-portpholio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" align= 'center' alt="Website"/></a>
 <a href = 'https://github.com/CodEsHiVaz/' target="_blank"> <img align= 'center' src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br>
