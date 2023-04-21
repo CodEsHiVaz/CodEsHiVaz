@@ -23,6 +23,8 @@
 🌱 I’m currently learning Full Stack Web Devlopment.
   
 💞️ I’m looking for opportunities in organization as a Full Stack (MERN), FrontEnd, BackEnd, React, Node.Js devloper roles
+  
+  📄 Here you can find my <a href="https://drive.google.com/file/d/1RDCKo3H5Uxl4OuXFJ7wVSZiMTbAj4gIo/view?usp=sharing"> Resume </a> !
 
 <h2> Projects i worked on <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> </h2>
   <ul>
