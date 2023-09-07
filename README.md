@@ -21,6 +21,8 @@
 👀 I’m interested in Web devolopment.
   
 🌱 I’m currently learning Full Stack Web Devlopment.
+
+💼 Passionate full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build
   
 💞️ I’m looking for opportunities in organization as a Full Stack (MERN), FrontEnd, BackEnd, React, Node.Js devloper roles
   
